@@ -1,0 +1,8 @@
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+pip-wheel-metadata/
+pip-log.txt
+resume_chroma_db/
