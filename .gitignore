@@ -6,3 +6,5 @@ ENV/
 pip-wheel-metadata/
 pip-log.txt
 resume_chroma_db/
+__pycache__/
+.gitignore
